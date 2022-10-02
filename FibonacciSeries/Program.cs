@@ -1,6 +1,12 @@
 ﻿Console.WriteLine("Program to print the Fibanacci sequence of numbers below the inputted number");
 Console.WriteLine("Enter a positive number:");
-int number = int.Parse(Console.ReadLine());
+string? input = Console.ReadLine();
+if (string.IsNullOrEmpty(input))
+{
+    Console.WriteLine("You need to input a number!");
+    return;
+}
+int number = int.Parse(input);
 
 int firstNum = 1, secondNum = 1;
 int sum = 0;
