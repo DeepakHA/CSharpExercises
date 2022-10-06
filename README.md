@@ -5,3 +5,5 @@
 2. Number repetition in a given array.
 
 3. Fibonacci Sequence.
+
+4. Swap two numbers.
