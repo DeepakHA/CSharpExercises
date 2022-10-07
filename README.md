@@ -7,3 +7,9 @@
 3. Fibonacci Sequence.
 
 4. Swap two numbers.
+
+5. Swap First and last names.
+
+6. Number of Vowels in a string.
+
+7. Are all characters in a string identical?
