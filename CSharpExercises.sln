@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapTwoNumbers", "SwapTwoNu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapFirstAndLastNames", "SwapFirstAndLastNames\SwapFirstAndLastNames.csproj", "{7AC9E03C-5859-4ACE-8BA9-2F313FC7F1F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfVowels", "NumberOfVowels\NumberOfVowels.csproj", "{A9653E85-8F79-4569-A4C0-1D8F532E7FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfVowels", "NumberOfVowels\NumberOfVowels.csproj", "{A9653E85-8F79-4569-A4C0-1D8F532E7FEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsCharsIdenticalinString", "IsCharsIdenticalinString\IsCharsIdenticalinString.csproj", "{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsCharsIdenticalinString", "IsCharsIdenticalinString\IsCharsIdenticalinString.csproj", "{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMonthName", "PrintMonthName\PrintMonthName.csproj", "{B65892FF-E9B9-493A-9F09-959948CF9992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedString", "CodedString\CodedString.csproj", "{7B038B5C-303F-41FE-8509-5B4BE7B50082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65892FF-E9B9-493A-9F09-959948CF9992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65892FF-E9B9-493A-9F09-959948CF9992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65892FF-E9B9-493A-9F09-959948CF9992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65892FF-E9B9-493A-9F09-959948CF9992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
