@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfVowels", "NumberOfV
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsCharsIdenticalinString", "IsCharsIdenticalinString\IsCharsIdenticalinString.csproj", "{80E2969F-AAB5-4814-AFBA-5BCCD3F631F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMonthName", "PrintMonthName\PrintMonthName.csproj", "{B65892FF-E9B9-493A-9F09-959948CF9992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintMonthName", "PrintMonthName\PrintMonthName.csproj", "{B65892FF-E9B9-493A-9F09-959948CF9992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedString", "CodedString\CodedString.csproj", "{7B038B5C-303F-41FE-8509-5B4BE7B50082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodedString", "CodedString\CodedString.csproj", "{7B038B5C-303F-41FE-8509-5B4BE7B50082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOfNumber", "MultiplesOfNumber\MultiplesOfNumber.csproj", "{1AC42184-5A67-4453-9C9D-0EC481EAC281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B038B5C-303F-41FE-8509-5B4BE7B50082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC42184-5A67-4453-9C9D-0EC481EAC281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC42184-5A67-4453-9C9D-0EC481EAC281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC42184-5A67-4453-9C9D-0EC481EAC281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC42184-5A67-4453-9C9D-0EC481EAC281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
