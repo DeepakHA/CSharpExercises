@@ -17,3 +17,5 @@
 8. Print month name.
 
 9. Encoded string.
+
+10. Multiples of a number.
